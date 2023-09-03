@@ -30,4 +30,7 @@ Con el fin de reestructurar la estructura de ficheros y directorios de Linux
 
 es/FilesystemHierarchyStandard - Debian Wiki. (s/f). Debian.org. Recuperado el 3 de septiembre de 2023, de https://wiki.debian.org/es/FilesystemHierarchyStandard
 
+Product Signing (GPG) Keys. (s/f). 3.2. Overview of file system hierarchy standard (FHS) Red Hat enterprise Linux 4. Red Hat Customer Portal. Recuperado el 3 de septiembre de 2023, de https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs
+
+
 
