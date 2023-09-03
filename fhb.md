@@ -28,3 +28,6 @@ Con el fin de reestructurar la estructura de ficheros y directorios de Linux
 - /usr Aquí se colocan datos compartidos de solo lectura,
 - /var Aquí se almacenan datos variables: archivos de log, bases de datos o paginas web
 
+es/FilesystemHierarchyStandard - Debian Wiki. (s/f). Debian.org. Recuperado el 3 de septiembre de 2023, de https://wiki.debian.org/es/FilesystemHierarchyStandard
+
+
