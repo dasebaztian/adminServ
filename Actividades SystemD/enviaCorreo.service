@@ -1,0 +1,8 @@
+[Unit]
+Description=Servicio Fallido
+
+[Service]
+ExecStart=$HOME/enviaCorreo.sh
+
+[Install]
+WantedBy=multi-user.target
